@@ -10,6 +10,10 @@ A modern job vacancy web application built with React.js and Vite.
 - Location details
 - Responsive design
 
+## Screenshot
+
+![Homepage](./screenshots/homepage.png)
+
 ## Technologies Used
 
 - React.js
