@@ -9,6 +9,13 @@ A modern job vacancy web application built with React.js and Vite.
 - Salary information
 - Location details
 - Responsive design
+- Time Posted
+- Part Time/ full time tags
+- Senior/Junior level tag
+
+## Logo, icon and images
+- Google Search
+- icon from Lucide-React
 
 ## Screenshot
 
@@ -31,3 +38,4 @@ npm run dev
 ## License
 
 MIT License
+
